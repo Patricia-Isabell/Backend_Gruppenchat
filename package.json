@@ -1,0 +1,26 @@
+{
+  "name": "backend-gaming",
+  "version": "1.0.0",
+  "description": "A simple chat application using Express and Socket.IO",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Patricia-Isabell/Backend-Gaming.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Patricia-Isabell/Backend-Gaming/issues"
+  },
+  "homepage": "https://github.com/Patricia-Isabell/Backend-Gaming#readme"
+}
