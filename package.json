@@ -4,10 +4,11 @@
   "description": "A simple chat application using Express and Socket.IO",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "dotenv": "^17.2.0",
+    "start": "node server.js",
     "express": "^4.21.2",
     "socket.io": "^4.8.1"
   },
@@ -16,11 +17,12 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Patricia-Isabell/Backend-Gaming.git"
+    "url": "git+https://github.com/Patricia-Isabell/Backend_Gruppenchat_alt.git"
   },
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Patricia-Isabell/Backend-Gaming/issues"
+    "url": "https://github.com/Patricia-Isabell/Backend_Gruppenchat_alt/issues"
   },
-  "homepage": "https://github.com/Patricia-Isabell/Backend-Gaming#readme"
+  "homepage": "https://github.com/Patricia-Isabell/Backend_Gruppenchat_alt#readme",
+  "devDependencies": {}
 }
