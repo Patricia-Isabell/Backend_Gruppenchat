@@ -15,10 +15,10 @@
   "license": "ISC",
   "keywords": [],
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/Patricia-Isabell/Backend-Gaming.git"
   },
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Patricia-Isabell/Backend-Gaming/issues"
   },
